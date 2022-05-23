@@ -93,8 +93,12 @@ main{
     border-radius: 5px;
 }
 
+.boton1{
+    transition: height 3s;
+}
+
 .boton1:hover{
-    background-color: rgb(255, 91, 91) ;
+    height: 40px;
 }
 
 /* footer */
